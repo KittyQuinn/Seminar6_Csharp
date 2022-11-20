@@ -1,0 +1,15 @@
+/Users/kataryzova/Desktop/Seminar6 C#/Task42/bin/Debug/net6.0/Task42
+/Users/kataryzova/Desktop/Seminar6 C#/Task42/bin/Debug/net6.0/Task42.deps.json
+/Users/kataryzova/Desktop/Seminar6 C#/Task42/bin/Debug/net6.0/Task42.runtimeconfig.json
+/Users/kataryzova/Desktop/Seminar6 C#/Task42/bin/Debug/net6.0/Task42.dll
+/Users/kataryzova/Desktop/Seminar6 C#/Task42/bin/Debug/net6.0/Task42.pdb
+/Users/kataryzova/Desktop/Seminar6 C#/Task42/obj/Debug/net6.0/Task42.csproj.AssemblyReference.cache
+/Users/kataryzova/Desktop/Seminar6 C#/Task42/obj/Debug/net6.0/Task42.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kataryzova/Desktop/Seminar6 C#/Task42/obj/Debug/net6.0/Task42.AssemblyInfoInputs.cache
+/Users/kataryzova/Desktop/Seminar6 C#/Task42/obj/Debug/net6.0/Task42.AssemblyInfo.cs
+/Users/kataryzova/Desktop/Seminar6 C#/Task42/obj/Debug/net6.0/Task42.csproj.CoreCompileInputs.cache
+/Users/kataryzova/Desktop/Seminar6 C#/Task42/obj/Debug/net6.0/Task42.dll
+/Users/kataryzova/Desktop/Seminar6 C#/Task42/obj/Debug/net6.0/refint/Task42.dll
+/Users/kataryzova/Desktop/Seminar6 C#/Task42/obj/Debug/net6.0/Task42.pdb
+/Users/kataryzova/Desktop/Seminar6 C#/Task42/obj/Debug/net6.0/Task42.genruntimeconfig.cache
+/Users/kataryzova/Desktop/Seminar6 C#/Task42/obj/Debug/net6.0/ref/Task42.dll
